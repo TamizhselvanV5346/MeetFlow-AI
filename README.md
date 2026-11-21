@@ -205,5 +205,4 @@ Follow these steps to demonstrate MeetFlow AI's full power to judges in under 3 
 - API keys are managed exclusively via environment variables (`.env`).
 - Never exposed in frontend or client-side storage.
 - Local SQLite database ensures sensitive meeting discussions remain on your infrastructure.
-#   M e e t F l o w - A I  
- 
+#
